@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwA5WhKgByp6KDV3KyF+WKkIoqSZLCiPk/O65JnZrO8QpYCemKU+lGXGDPZTyTMrr9NcKzmnqz6TBWFe4iuXCQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SENAI-EXERCICIOS\\backend03\\LHPet\\LHPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
